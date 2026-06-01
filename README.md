@@ -107,6 +107,7 @@ else:
 ```
 ## Output:
 <img width="672" height="367" alt="image" src="https://github.com/user-attachments/assets/d187dfa6-fc28-4b28-b550-fe134eea2d5f" />
+
 ## RESULT:
 
 Thus, the GPU-accelerated Sobel Edge Detection algorithm was successfully implemented using CUDA-enabled PyTorch. The image was processed on the GPU, and the edges were detected efficiently with reduced execution time, demonstrating the effectiveness of GPU computing for image processing applications.
